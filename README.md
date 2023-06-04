@@ -44,9 +44,9 @@ $ sudo ldconfig
 From the root of this directory:
 
 ``` console
-cd src
-mkdir build
-cd build
-cmake ..
-sudo make install
+$ cd src
+$ mkdir build
+$ cd build
+$ cmake ..
+$ sudo make install
 ```
